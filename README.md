@@ -8,12 +8,13 @@ I'm an [EPSRC research fellow](https://epsrc.ukri.org/about/people/michaelfaulkn
 - The sole author of [xy-type-models](https://github.com/michaelfaulkner/xy-type-models) (a hybrid Fortran-Python application for Metropolis and event-chain Monte Carlo simulation of two-dimensional XY models and the two-dimensional lattice-field electrolyte).
 
 ## 🔭  Current research
-- I’m currently using [my model](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.91.155412) of ergodicity breaking in the two-dimensional electrolyte in order to explain [correlated resistance fluctuations](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.134503) at the superconducting transition in lanthanum strontium copper oxide.  This is made possible by thin-film and layered type-II superconductors [behaving as emergent two-dimensional electrolytes](https://doi.org/10.1088/1361-648X/aa523f) and the project uses [xy-type-models](https://github.com/michaelfaulkner/xy-type-models). 
+- I’m currently using [my model](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.91.155412) of ergodicity breaking in the two-dimensional electrolyte in order to explain [correlated resistance fluctuations](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.134503) at the superconducting transition in lanthanum strontium copper oxide.  This is made possible by the [emergent electrostatics in XY models](https://doi.org/10.1088/1361-648X/aa523f) of thin-film and layered type-II superconductors (and many other thin-film and layered systems).  The project uses [xy-type-models](https://github.com/michaelfaulkner/xy-type-models) to simulate the model system.
 - With collegues in computational statistics, I’m also writing a guide to statistical physics for the statistician.  This will be useful because there's a lot of overlap between the two fields, but cross-pollination of knowledge is slow due to poor understanding within each discipline of the goals and nomenclature of the other field.  This project uses [super-aLby](https://github.com/michaelfaulkner/super-aLby) and [xy-type-models](https://github.com/michaelfaulkner/xy-type-models) to simulate the models presented.
 
 ## 🌱  Future plans
 - Emergent physical dynamics in Metropolis Monte Carlo algorithms.
 - Application of ideas from Bayesian computation to fix some fundamental convergence issues in [JeLLyFysh](https://github.com/jellyfysh/JeLLyFysh).
+- Further projects on emergent electrostatics in two-dimensional XY models.
 
 ## 📫  Contact
 - Email me at michael.faulkner AT bristol.ac.uk
