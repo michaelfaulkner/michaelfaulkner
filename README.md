@@ -17,4 +17,5 @@ I'm an [EPSRC research fellow](https://epsrc.ukri.org/about/people/michaelfaulkn
 
 ## 📫  Contact
 - Email me at michael.faulkner AT bristol.ac.uk
-- And see [my website](https://michaelfaulkner.github.io) for more details.
+- See [my personal website](https://michaelfaulkner.github.io) and [Bristol webpage](https://research-information.bris.ac.uk/en/persons/michael-faulkner) for more details.
+- And [Google Scholar](https://scholar.google.com/citations?user=wDxigWUAAAAJ&hl=fr&oi=sra), [arXiv](https://arxiv.org/search/?searchtype=author&query=Faulkner%2C+M+F) and [ORCiD](https://orcid.org/0000-0002-9116-2878) for my publications and grants.
