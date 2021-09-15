@@ -5,7 +5,7 @@ I'm an [EPSRC research fellow](https://epsrc.ukri.org/about/people/michaelfaulkn
 ## 👨‍🔧  Main contributions on Github 
 - An original co-author of [super-aLby](https://github.com/michaelfaulkner/super-aLby) (a Python application for super-relativistic Monte Carlo simulation in soft-matter physics and Bayesian computation).
 - An original co-author of [JeLLyFysh](https://github.com/jellyfysh/JeLLyFysh) (a hybrid Python-C application for event-chain Monte Carlo simulation in soft-matter physics).
-- The sole author of [xy-type-models](https://github.com/michaelfaulkner/xy-type-models) (a hybrid Fortran-Python application for Metropolis and event-chain Monte Carlo simulation of two-dimensional XY models and the two-dimensional lattice-field electrolyte).
+- The sole author of [xy-type-models](https://github.com/michaelfaulkner/xy-type-models) (a hybrid Fortran-Python application for Metropolis and event-chain Monte Carlo simulation of 2D XY models and the 2D lattice-field electrolyte).
 
 ## 🔭  Current research
 - I’m currently using [my model](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.91.155412) of ergodicity breaking in the two-dimensional electrolyte in order to explain [correlated resistance fluctuations](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.134503) at the superconducting transition in lanthanum strontium copper oxide.  This is made possible by thin-film and layered type-II superconductors [behaving as emergent two-dimensional electrolytes](https://doi.org/10.1088/1361-648X/aa523f) and the project uses [xy-type-models](https://github.com/michaelfaulkner/xy-type-models). 
