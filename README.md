@@ -13,7 +13,7 @@ I'm an [EPSRC research fellow](https://epsrc.ukri.org/about/people/michaelfaulkn
 
 ## 🌱  Future plans
 - Emergent physical dynamics in Metropolis Monte Carlo algorithms.
-- Application of ideas from Bayesian computation to fix some fundamental convergence issues in [JeLLyFysh](https://github.com/jellyfysh/JeLLyFysh), our new hybrid Python-C application for molecular simulations in soft-matter physics.
+- Application of ideas from Bayesian computation to fix some fundamental convergence issues in [JeLLyFysh](https://github.com/jellyfysh/JeLLyFysh).
 
 ## 📫  Contact
 - Email me at michael.faulkner AT bristol.ac.uk
