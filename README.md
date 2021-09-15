@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an [EPSRC research fellow](https://epsrc.ukri.org/about/people/michaelfaulkner/) at the [University of Bristol](https://research-information.bristol.ac.uk/en/persons/michael-faulkner(76c7604a-6db1-4d4f-948e-db5a1f7afc2b).html).  Primarily, I’m a computational statistical physicist, which means that I use statistics and simulation algorithms to model many particles interacting with one another in a single system.  I specialise in molecular simulation in soft-matter physics, Markovian Monte Carlo algorithms in statistical physics and Bayesian computation, and the theory of 2D electrolytes, magnets and superconductors.
+I'm an [EPSRC research fellow](https://epsrc.ukri.org/about/people/michaelfaulkner/) at the [University of Bristol](https://research-information.bristol.ac.uk/en/persons/michael-faulkner(76c7604a-6db1-4d4f-948e-db5a1f7afc2b).html).  Primarily, I’m a computational statistical physicist, which means that I use statistics and simulation algorithms to model many particles interacting with one another in a single system.  I specialise in molecular simulation in soft-matter physics, Markovian Monte Carlo algorithms in statistical physics and Bayesian computation, and the theory and simulation of 2D electrolytes, magnets and superconductors.
 
 ## 👨‍🔧 My main contributions on Github 
 - One of the original co-authors of [super-aLby](https://github.com/michaelfaulkner/super-aLby).
