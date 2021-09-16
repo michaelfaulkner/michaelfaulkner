@@ -22,6 +22,7 @@ For more details, here's [my personal website](https://michaelfaulkner.github.io
 ## 🔭  Current research
 - I’m currently using [my model](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.91.155412) of ergodicity breaking in the two-dimensional electrolyte to explain [correlated resistance fluctuations](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.134503) at the superconducting transition in lanthanum strontium copper oxide.  This is made possible by [emergent electrostatics in the harmonic XY model](https://doi.org/10.1088/1361-648X/aa523f) of planar mangets, superfluids and superconductors.  The project uses [xy-type-models](https://github.com/michaelfaulkner/xy-type-models) to simulate the model system.
 - [Sam Livingstone](https://www.ucl.ac.uk/statistics/department-information/staff/dr-samuel-livingstone) and I are writing a guide to statistical physics for the statistician.  This will be useful because there's a lot of overlap between the two fields, but cross-pollination of knowledge is currently slow due to poor understanding within each discipline of the goals and nomenclature of the other field.  This project uses [super-aLby](https://github.com/michaelfaulkner/super-aLby) and [xy-type-models](https://github.com/michaelfaulkner/xy-type-models) to simulate the models presented.
+- We are also working on super-relativistic Monte Carlo in soft-matter physics, using [super-aLby](https://github.com/michaelfaulkner/super-aLby).
 
 ## 🌱  Future plans
 - Emergent physical dynamics in Metropolis Monte Carlo algorithms.
