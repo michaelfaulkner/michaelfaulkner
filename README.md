@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an [EPSRC research fellow](https://epsrc.ukri.org/about/people/michaelfaulkner/) at the [University of Bristol](https://research-information.bristol.ac.uk/en/persons/michael-faulkner(76c7604a-6db1-4d4f-948e-db5a1f7afc2b).html).  Primarily, I’m a computational statistical physicist, which means that I use statistics and simulation algorithms to model many particles interacting with one another in a single system.  I specialise in:
+I'm an [EPSRC research fellow](https://epsrc.ukri.org/about/people/michaelfaulkner/) at the [University of Bristol](https://research-information.bristol.ac.uk/en/persons/michael-faulkner(76c7604a-6db1-4d4f-948e-db5a1f7afc2b).html).  Primarily, I’m a computational statistical physicist, which means that I use statistics and simulation algorithms to model large numbers of particles interacting with each another.  I specialise in:
 - Theory and simulation of two-dimensional electrolytes, magnets, superfluids and superconductors.
 - Molecular simulation in soft-matter physics, with a focus on high precision and numerical stability.
 - Markovian Monte Carlo algorithms in statistical physics and Bayesian computation.
