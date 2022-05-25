@@ -30,11 +30,10 @@ For more details, visit [my personal website](https://michaelfaulkner.github.io)
 - [Sam Livingstone](https://www.ucl.ac.uk/statistics/department-information/staff/dr-samuel-livingstone) and I are writing a guide to statistical physics for the statistician.  This will be useful because there's a lot of overlap between the two fields, but cross-pollination of knowledge is currently slow due to poor understanding within each discipline of the goals and nomenclature of the other field.  This project uses [super-aLby](https://github.com/michaelfaulkner/super-aLby) and [xy-type-models](https://github.com/michaelfaulkner/xy-type-models) to simulate the models presented.
 - We are also working on super-relativistic Monte Carlo in soft-matter physics, using [super-aLby](https://github.com/michaelfaulkner/super-aLby).
 
-## 🌱  Future plans
-- Emergent physical dynamics in Metropolis Monte Carlo algorithms.
-- Event-chain dynamics in a critical system.
-- Application of ideas from Bayesian computation to fix some fundamental convergence issues in [JeLLyFysh](https://github.com/jellyfysh/JeLLyFysh).
+## 🌱  Future plans and interests
+- Application of [JeLLyFysh](https://github.com/jellyfysh/JeLLyFysh) to various problems involving atomistic water and long-chain charged polymers.
 - Further projects on emergent electrostatics in two-dimensional XY models.
+- Analysis of the dynamics of various sampling algorithms using ideas from Bayesian computation.
 
 ## 📫  Contact
 - Email me at michael.faulkner AT bristol.ac.uk
