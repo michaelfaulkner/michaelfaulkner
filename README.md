@@ -3,7 +3,7 @@
 I'm an [EPSRC research fellow](https://epsrc.ukri.org/about/people/michaelfaulkner/) at the [University of Bristol](https://research-information.bristol.ac.uk/en/persons/michael-faulkner(76c7604a-6db1-4d4f-948e-db5a1f7afc2b).html).  Primarily, I’m a computational statistical physicist, which means that I use statistics and simulation algorithms to model large numbers of particles interacting with each another in a single material.  I specialise in:
 - Theory and simulation of two-dimensional electrolytes, magnets, superfluids and superconductors.
 - Molecular simulation in soft-matter physics, with a focus on high precision and numerical stability.
-- Markovian Monte Carlo algorithms in statistical physics and Bayesian computation.
+- Monte Carlo sampling algorithms in statistical physics and Bayesian computation.
 
 Previously, I was a doctoral researcher at [University College London](https://www.ucl.ac.uk/condensed-matter-material-physics/) and [Ecole normale supérieure de Lyon](http://www.ens-lyon.fr/PHYSIQUE/teams/physique-theorique/research-topics/statistical-physics), under the co-supervision of [Steve Bramwell](https://www.ucl.ac.uk/physics-astronomy/people/professor-steven-bramwell) and [Peter Holdsworth](http://www.ens-lyon.fr/en/research/honors-and-awards/peter-holdsworth-physicist-laboratoire-de-physique).  After a short postdoc and then a teaching position in the School of Mathematics at Bristol, I moved to the School of Physics to start my EPSRC fellowship in August 2017.
 
