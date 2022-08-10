@@ -42,7 +42,7 @@ For more details, visit [my personal website](https://michaelfaulkner.github.io)
 
 ## 📜  Academic publications
 - *Sampling algorithms in statistical physics: a guide for statistics and machine learning*, M. F. Faulkner and S. Livingstone, [arXiv:2208.04751](https://arxiv.org/abs/2208.04751) (2022)
-- *JeLLyFysh-Version1.0 -- a Python application for all-atom event-chain Monte Carlo*, P. Hoellmer, L. Qin, M. F. Faulkner, A. C. Maggs and W. Krauth, [Comput. Phys. Commun. 253, 107168](https://doi.org/10.1016/j.cpc.2020.107168) (2020)
+- *JeLLyFysh-Version1.0 -- a Python application for all-atom event-chain Monte Carlo*, P. Höllmer, L. Qin, M. F. Faulkner, A. C. Maggs and W. Krauth, [Comput. Phys. Commun. 253, 107168](https://doi.org/10.1016/j.cpc.2020.107168) (2020)
 - *Kinetic-energy choice in hybrid/Hamiltonian Monte Carlo*, S. Livingstone, M. F. Faulkner and G. O. Roberts, [Biometrika 106, 303](https://doi.org/10.1093/biomet/asz013) (2019)
 - *All-atom computations with irreversible Markov chains*, M. F. Faulkner, L. Qin, A. C. Maggs and W. Krauth, [J. Chem. Phys. 149, 064113](https://doi.org/10.1063/1.5036638) (2018) 
 - *An electric-field representation of the harmonic XY model*, M. F. Faulkner, S. T. Bramwell and P. C. W. Holdsworth, [J. Phys.: Condens. Matter 29, 085402](https://doi.org/10.1088/1361-648X/aa523f) (2017) 
