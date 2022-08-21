@@ -30,8 +30,8 @@ For more details, visit [my personal website](https://michaelfaulkner.github.io)
 - Designed (with statisticians [Sam Livingstone](https://www.ucl.ac.uk/statistics/department-information/staff/dr-samuel-livingstone) and [Gareth Roberts](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/roberts/)) [super-relativistic Monte Carlo](https://doi.org/10.1093/biomet/asz013) for high-stability simulation of probability models in Bayesian computation (see section 5.2 of [the linked paper](https://doi.org/10.1093/biomet/asz013) for details).  By slowing down the Newtonian dynamics in high-gradient regions of probability space, this new simulation algorithm circumvents the numerical instabilities of Hamiltonian Monte Carlo when applied to light-tailed probability distributions.  It also achieves machine precision and is the basis of our Python application [super-aLby](https://github.com/michaelfaulkner/super-aLby).
 
 ## 🔭  Current research
-- Further connections between general symmetry breaking the correlated dynamics in the LSCO film.
-- And I'm also writing a review paper on emergent electrostatics, nonergodicity and symmetry breaking in planar XY spin models.
+- Further connections between general symmetry breaking and the correlated dynamics in the LSCO film.
+- And A review paper on emergent electrostatics, nonergodicity and symmetry breaking in planar XY spin models.
 
 ## 🌱  Future plans and interests
 - Application of [JeLLyFysh](https://github.com/jellyfysh/JeLLyFysh) to various problems involving atomistic water and long-chain charged polymers.
