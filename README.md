@@ -12,9 +12,9 @@ I was also a visiting scientist at [Ecole normale supérieure](http://www.phys.e
 For more details, visit [my personal website](https://michaelfaulkner.github.io).  And [Google Scholar](https://scholar.google.com/citations?user=wDxigWUAAAAJ&hl=fr&oi=sra), [arXiv](https://arxiv.org/search/?searchtype=author&query=Faulkner%2C+M+F) and [ORCiD](https://orcid.org/0000-0002-9116-2878) detail my [publications](https://github.com/michaelfaulkner#--academic-publications) and grants.
 
 ## 👨‍🔧  Main contributions to Github 
-- An original co-author of [super-aLby](https://github.com/michaelfaulkner/super-aLby) — a Python application for super-relativistic, Hamiltonian, Metropolis and Wolff Monte Carlo in statistical physics and Bayesian computation.
-- An original co-author of [JeLLyFysh](https://github.com/jellyfysh/JeLLyFysh) — a hybrid Python-C application for atomistic event chain Monte Carlo simulation in soft matter.
-- The sole author of [xy-type-models](https://github.com/michaelfaulkner/xy-type-models) — a hybrid Fortran-Python application for Metropolis and event chain Monte Carlo simulation of two-dimensional XY models and the two-dimensional lattice-field electrolyte.
+- An original co-author of [super-aLby](https://github.com/michaelfaulkner/super-aLby) — a mediator-based Python application for super-relativistic, Hamiltonian, Metropolis and Wolff Monte Carlo in statistical physics and Bayesian computation.
+- An original co-author of [JeLLyFysh](https://github.com/jellyfysh/JeLLyFysh) — a mediator-based Python-C application for atomistic event chain Monte Carlo simulation in soft matter.
+- The sole author of [xy-type-models](https://github.com/michaelfaulkner/xy-type-models) — a Fortran-Python application for Metropolis and event chain Monte Carlo simulation of two-dimensional XY models and the two-dimensional lattice-field electrolyte.
 
 ## 🔑 Key scientific achievements
 ### Thin films
