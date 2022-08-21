@@ -1,7 +1,7 @@
 ## 👋 About me
 
 I'm an [EPSRC research fellow](https://epsrc.ukri.org/about/people/michaelfaulkner/) at the [University of Bristol](https://research-information.bristol.ac.uk/en/persons/michael-faulkner(76c7604a-6db1-4d4f-948e-db5a1f7afc2b).html).  Primarily, I’m a computational statistical physicist, which means that I use statistics and simulation algorithms to model large numbers of particles interacting with each another in a single material.  I specialise in:
-- Theory and simulation of two-dimensional Coulomb fluids, magnets, superfluids and superconductors.
+- Theory and simulation of planar Coulomb fluids, magnets, superfluids and superconductors.
 - Molecular simulation in soft-matter physics, with a focus on Coulomb fluids, high precision and numerical stability.
 - Monte Carlo sampling algorithms in statistical physics and Bayesian computational statistics.
 
@@ -14,7 +14,7 @@ For more details, visit [my personal website](https://michaelfaulkner.github.io)
 ## 👨‍🔧  Main contributions to Github 
 - An original co-author of [super-aLby](https://github.com/michaelfaulkner/super-aLby) — a mediator-based Python application for super-relativistic, Hamiltonian, Metropolis and Wolff Monte Carlo in statistical physics and Bayesian computation.
 - An original co-author of [JeLLyFysh](https://github.com/jellyfysh/JeLLyFysh) — a mediator-based Python-C application for atomistic event chain Monte Carlo simulation in soft matter.
-- The sole author of [xy-type-models](https://github.com/michaelfaulkner/xy-type-models) — a Fortran-Python application for Metropolis and event chain Monte Carlo simulation of two-dimensional XY models and the two-dimensional lattice-field electrolyte.
+- The sole author of [xy-type-models](https://github.com/michaelfaulkner/xy-type-models) — a Fortran-Python application for Metropolis and event chain Monte Carlo simulation of 2DXY models and the 2D lattice-field electrolyte.
 
 ## 🔑 Key scientific achievements
 ### Thin films
