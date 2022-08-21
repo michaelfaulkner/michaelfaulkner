@@ -35,8 +35,8 @@ For more details, visit [my personal website](https://michaelfaulkner.github.io)
 
 ## 🌱  Future plans and interests
 - Application of [JeLLyFysh](https://github.com/jellyfysh/JeLLyFysh) to various problems involving atomistic water and long-chain charged polymers.
-- Further projects on emergent electrostatics in two-dimensional XY models.
-- Analysis of the dynamics of various sampling algorithms using ideas from Bayesian computation.
+- Further projects on emergent electrostatics in 2DXY models.
+- Analysis of various sampling algorithms using ideas from Bayesian computation.
 
 ## 📫  Contact
 - Email me at michael.faulkner AT bristol.ac.uk
