@@ -31,7 +31,7 @@ For more details, visit [my personal website](https://michaelfaulkner.github.io)
 
 ## 🔭  Current research
 - Further connections between general symmetry breaking and the correlated dynamics in the LSCO film.
-- And A review paper on emergent electrostatics, nonergodicity and symmetry breaking in planar XY spin models.
+- A review paper on emergent electrostatics, nonergodicity and symmetry breaking in planar XY spin models.
 
 ## 🌱  Future plans and interests
 - Application of [JeLLyFysh](https://github.com/jellyfysh/JeLLyFysh) to various problems involving atomistic water and long-chain charged polymers.
