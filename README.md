@@ -10,10 +10,11 @@ Previously, I was a doctoral researcher at [University College London](https://w
 I was also a visiting scientist at [Ecole normale supérieure](http://www.phys.ens.fr/?lang=fr) from September 2017 to October 2018, and won a Max Planck Institute fellowship to visit the [Max Planck Institute for the Physics of Complex Systems](https://www.pks.mpg.de) in Dresden in April 2018.
 
 My [publications](https://github.com/michaelfaulkner#--academic-publications) are listed below. For more details in general, please visit 
-- [My personal website](https://michaelfaulkner.github.io).
 - [Google Scholar](https://scholar.google.com/citations?user=wDxigWUAAAAJ&hl=fr&oi=sra).
 - [arXiv](https://arxiv.org/search/?searchtype=author&query=Faulkner%2C+M+F).
 - [ORCiD](https://orcid.org/0000-0002-9116-2878).
+- [My Bristol webpage](https://research-information.bris.ac.uk/en/persons/michael-faulkner).
+- [My personal website](https://michaelfaulkner.github.io).
 
 ## 👨‍🔧  Main contributions to Github 
 - An original co-author of [super-aLby](https://github.com/michaelfaulkner/super-aLby) — a mediator-based Python application for super-relativistic, Hamiltonian, Metropolis and Wolff Monte Carlo in statistical physics and Bayesian computation.
