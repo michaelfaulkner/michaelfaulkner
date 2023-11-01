@@ -1,13 +1,11 @@
 ## 👋 About me
 
-I'm an [EPSRC research fellow](https://epsrc.ukri.org/about/people/michaelfaulkner/) at the [University of Bristol](https://research-information.bristol.ac.uk/en/persons/michael-faulkner(76c7604a-6db1-4d4f-948e-db5a1f7afc2b).html).  I’m primarily a computational statistical physicist, which means that I use statistics and simulation algorithms to model large numbers of particles interacting with each another in a single material.  I specialise in:
-- Theory and simulation of emergent planar Coulomb liquids, such as magnets, superfluids and superconductors.
-- Molecular simulation in soft-matter physics, with a focus on Coulomb liquids, high precision and numerical stability.
-- Monte Carlo sampling algorithms in statistical physics and Bayesian computational statistics.
+I'm an Assistant Professor at the [Warwick Centre for Predictive Modelling](https://warwick.ac.uk/fac/sci/wcpm/).  I'm primarily a computational statistical physicist, specialising in:
+- Emergent electrostatics, metastability and correlated dynamics in systems that experience the Berezinskii-Kosterlitz-Thouless phase transition, eg, certain planar magnets, superfluids and superconductors.
+- Molecular simulation in soft-matter physics, with a focus on electrostatics, high precision and numerical stability.
+- Monte Carlo sampling algorithms in statistical physics and Bayesian computational statistics, with a particular interest in piecewise deterministic Markov processes such as event-chain Monte Carlo.
 
-Previously, I was a doctoral researcher at [University College London](https://www.ucl.ac.uk/condensed-matter-material-physics/) and [Ecole normale supérieure de Lyon](http://www.ens-lyon.fr/PHYSIQUE/teams/physique-theorique/research-topics/statistical-physics), under the co-supervision of [Steve Bramwell](https://www.ucl.ac.uk/physics-astronomy/people/professor-steven-bramwell) and [Peter Holdsworth](http://www.ens-lyon.fr/en/research/honors-and-awards/peter-holdsworth-physicist-laboratoire-de-physique).  After a short postdoc and then a teaching position at Bristol Maths, I moved to Bristol Physics to start my EPSRC fellowship in August 2017.
-
-I was also a visiting scientist at [Ecole normale supérieure](http://www.phys.ens.fr/?lang=fr) from September 2017 to October 2018, and won a Max Planck Institute fellowship to visit the [Max Planck Institute for the Physics of Complex Systems](https://www.pks.mpg.de) in Dresden in April 2018.
+I started my academic career as a PhD student at [University College London](https://www.ucl.ac.uk/condensed-matter-material-physics/) and [Ecole normale supérieure de Lyon](http://www.ens-lyon.fr/PHYSIQUE/teams/physique-theorique/research-topics/statistical-physics), under the co-supervision of [Steve Bramwell](https://www.ucl.ac.uk/physics-astronomy/people/professor-steven-bramwell) and [Peter Holdsworth](http://www.ens-lyon.fr/en/research/honors-and-awards/peter-holdsworth-physicist-laboratoire-de-physique).  After a short postdoc and teaching position at [Bristol Mathematics](https://www.bristol.ac.uk/maths/), I then moved to [Bristol Physics](https://www.bristol.ac.uk/physics/research/theory/) in August 2017 after winning an EPSRC postdoctoral research fellowship.  I was also a visiting scientist at [Ecole normale supérieure](http://www.phys.ens.fr/?lang=fr) from September 2017 to October 2018, and won a Max Planck Institute fellowship to visit the [Max Planck Institute for the Physics of Complex Systems](https://www.pks.mpg.de) in Dresden in April 2018.
 
 My [publications](https://github.com/michaelfaulkner#--academic-publications) are listed below. For more details in general, please visit 
 - [Google Scholar](https://scholar.google.com/citations?user=wDxigWUAAAAJ&hl=fr&oi=sra)
@@ -30,25 +28,25 @@ My [publications](https://github.com/michaelfaulkner#--academic-publications) ar
 - ...presented an [electric-field representation of the harmonic XY model](https://doi.org/10.1088/1361-648X/aa523f) — a more realistic model of planar magnets, superfluids and superconductors — which mapped the topological ergodicity breaking to the ergodic exclusion of global phase twists in the magnetic spins / condensate wavefunction.
 
 ### Molecular simulation and event-chain Monte Carlo
-- Designed [an event-chain algorithm](https://doi.org/10.1063/1.5036638) for numerically stable all-atom molecular Coulomb simulations in soft matter (with [Liang Qin](https://scholar.google.com/citations?user=rGW6nKUAAAAJ), [Tony Maggs](https://turner.pct.espci.fr/~amaggs/index2.html) and [Werner Krauth](http://www.lps.ens.fr/~krauth/index.php/Main_Page)).  This is the only molecular simulation algorithm that mixes (equilibrates from a random initial configuration) Coulomb-based models in *O(N log(N))* computations, where *N* is the number of particles.  It also achieves machine precision and is the basis of...
+- Designed [an event-chain algorithm](https://doi.org/10.1063/1.5036638) for numerically stable and determinstic all-atom molecular Coulomb simulations in soft matter (with [Liang Qin](https://scholar.google.com/citations?user=rGW6nKUAAAAJ), [Tony Maggs](https://turner.pct.espci.fr/~amaggs/index2.html) and [Werner Krauth](http://www.lps.ens.fr/~krauth/index.php/Main_Page)).  This is the only molecular simulation algorithm that mixes (equilibrates from a random initial configuration) Coulomb-based models in *O(N log(N))* computations, where *N* is the number of particles.  It also achieves machine precision and is the basis of...
 - ...our mediator-based Python-C application [JeLLyFysh](https://github.com/jellyfysh/JeLLyFysh), which we set out in detail [here](https://doi.org/10.1016/j.cpc.2020.107168) (also with [Philipp Höllmer](https://scholar.google.com/citations?user=TzZkSGMAAAAJ&hl=fr&oi=sra)).
 
 ### Sampling algorithms and interface with Bayesian computational statistics
-- Presented an [in-depth review of statistical physics and its sampling algorithms](https://arxiv.org/abs/2208.04751), but in the language of statistics and machine learning (with statistician [Sam Livingstone](https://www.ucl.ac.uk/statistics/department-information/staff/dr-samuel-livingstone)).  This will accelerate innovation and cross-pollination of knowledge between the two fields, by strengthening understanding within each discipline of the goals and nomenclature of the other field.  This project uses [super-aLby](https://github.com/michaelfaulkner/super-aLby) and [xy-type-models](https://github.com/michaelfaulkner/xy-type-models) to simulate the models presented.  We are now building on the connections presented in the paper.
+- Presented an [in-depth review of statistical physics and its sampling algorithms](https://arxiv.org/abs/2208.04751), but in the language of statistics and machine learning (with statistician [Sam Livingstone](https://www.ucl.ac.uk/statistics/department-information/staff/dr-samuel-livingstone)).  We take a particular interest in phase transitions and event-chain Monte Carlo, presenting the latter in the language of piecewise determinstic Markov processes (PDMPs) in Bayesian computations.  This project uses [super-aLby](https://github.com/michaelfaulkner/super-aLby) and [xy-type-models](https://github.com/michaelfaulkner/xy-type-models) to simulate the models presented.  We are now building on the connections presented in the paper.
 - Designed [super-relativistic Monte Carlo](https://doi.org/10.1093/biomet/asz013) for high-stability simulation of probability models in Bayesian computation (with statisticians [Sam Livingstone](https://www.ucl.ac.uk/statistics/department-information/staff/dr-samuel-livingstone) and [Gareth Roberts](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/roberts/) — see section 5.2 of [the linked paper](https://doi.org/10.1093/biomet/asz013) for details).  By slowing down the Newtonian dynamics in high-gradient regions of probability space, this new simulation algorithm circumvents the numerical instabilities of Hamiltonian Monte Carlo when applied to light-tailed probability distributions.  It also achieves machine precision and is the basis of our Python application [super-aLby](https://github.com/michaelfaulkner/super-aLby).
 
 ## 🔭  Current research
-- Further connections between general symmetry breaking and the correlated dynamics in the LSCO film.
+- Developing PDMPs to resolve correlated dynamics in the LSCO film.
 - A review paper on emergent electrostatics, topological nonergodicity and symmetry breaking in planar XY spin models.
 
 ## 🌱  Future plans and interests
 - Application of [JeLLyFysh](https://github.com/jellyfysh/JeLLyFysh) to various problems involving atomistic water and long-chain charged polymers.
 - Further projects on emergent electrostatics in 2DXY models.
-- Analysis of various sampling algorithms using ideas from Bayesian computation.
+- Developing PDMPs to resolve correlated dynamics in Bayesian computation.
 
 ## 📫  Contact
-- Email me at michael.faulkner AT bristol.ac.uk
-- As outlined above, you can find more details on [my personal website](https://michaelfaulkner.github.io) and [Bristol webpage](https://research-information.bris.ac.uk/en/persons/michael-faulkner).
+- Email me at michael DOT faulkner AT warwick DOT ac DOT uk
+- As outlined above, you can find more details on [my personal website](https://michaelfaulkner.github.io) and [Warwick webpage](https://research-information.bris.ac.uk/en/persons/michael-faulkner) (coming soon!).
 - And [Google Scholar](https://scholar.google.com/citations?user=wDxigWUAAAAJ&hl=fr&oi=sra), [arXiv](https://arxiv.org/search/?searchtype=author&query=Faulkner%2C+M+F) and [ORCiD](https://orcid.org/0000-0002-9116-2878) detail my [publications](https://github.com/michaelfaulkner#--academic-publications) and grants.
 
 ## 📜  Academic publications
