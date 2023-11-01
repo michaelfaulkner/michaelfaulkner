@@ -42,7 +42,7 @@ My [publications](https://github.com/michaelfaulkner#--academic-publications) ar
 ## 🌱  Future plans and interests
 - Application of [JeLLyFysh](https://github.com/jellyfysh/JeLLyFysh) to various problems involving atomistic water and long-chain charged polymers.
 - Further projects on emergent electrostatics in 2DXY models.
-- Developing PDMPs to resolve correlated dynamics in Bayesian computation.
+- Developing PDMPs to resolve correlated dynamics at phase transitions in Bayesian computation.
 
 ## 📫  Contact
 - Email me at michael DOT faulkner AT warwick DOT ac DOT uk
