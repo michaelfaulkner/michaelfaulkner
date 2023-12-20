@@ -1,6 +1,6 @@
 ## 👋 About me
 
-I'm an [Assistant Professor]([743174](https://warwick.ac.uk/fac/sci/eng/people/michael_faulkner/)) in the [Warwick Centre for Predictive Modelling](https://warwick.ac.uk/fac/sci/wcpm/).  Primarily I'm a computational statistical physicist, specialising in:
+I'm an [Assistant Professor](https://warwick.ac.uk/fac/sci/eng/people/michael_faulkner/) in the [Warwick Centre for Predictive Modelling](https://warwick.ac.uk/fac/sci/wcpm/).  Primarily I'm a computational statistical physicist, specialising in:
 - Emergent electrostatics, metastability and correlated dynamics in systems that experience the Berezinskii-Kosterlitz-Thouless phase transition, eg, certain planar magnets, superfluids and superconductors.
 - Molecular simulation in soft-matter physics, with a focus on electrostatics, high precision and numerical stability.
 - Monte Carlo sampling algorithms in statistical physics and Bayesian computational statistics, with a particular interest in piecewise deterministic Markov processes (PDMPs) such as event-chain Monte Carlo.
@@ -46,12 +46,12 @@ My [publications](https://github.com/michaelfaulkner#--academic-publications) ar
 
 ## 📫  Contact
 - Email me at michael DOT faulkner AT warwick DOT ac DOT uk
-- As outlined above, you can find more details on [my personal website](https://michaelfaulkner.github.io) and [Warwick webpage](https://research-information.bris.ac.uk/en/persons/michael-faulkner) (coming soon!).
+- As outlined above, you can find more details on [my personal website](https://michaelfaulkner.github.io) and [Warwick webpage](https://warwick.ac.uk/fac/sci/eng/people/michael_faulkner/).
 - And [Google Scholar](https://scholar.google.com/citations?user=wDxigWUAAAAJ&hl=fr&oi=sra), [arXiv](https://arxiv.org/search/?searchtype=author&query=Faulkner%2C+M+F) and [ORCiD](https://orcid.org/0000-0002-9116-2878) detail my [publications](https://github.com/michaelfaulkner#--academic-publications) and grants.
 
 ## 📜  Academic publications
-- *General symmetry breaking at a topological phase transition*, M. F. Faulkner, [arXiv:2209.03699](https://arxiv.org/abs/2209.03699) (2022)
-- *Sampling algorithms in statistical physics: a guide for statistics and machine learning*, M. F. Faulkner and S. Livingstone, [arXiv:2208.04751](https://arxiv.org/abs/2208.04751) (2022)
+- *General symmetry breaking at a topological phase transition*, M. F. Faulkner, [arXiv:2209.03699](https://arxiv.org/abs/2209.03699) (2022) (in press at *Phys. Rev. B*)
+- *Sampling algorithms in statistical physics: a guide for statistics and machine learning*, M. F. Faulkner and S. Livingstone, [arXiv:2208.04751](https://arxiv.org/abs/2208.04751) (2022) (in press at *Stat. Sci.*)
 - *JeLLyFysh-Version1.0 — a Python application for all-atom event-chain Monte Carlo*, P. Höllmer, L. Qin, M. F. Faulkner, A. C. Maggs and W. Krauth, [Comput. Phys. Commun. 253, 107168](https://doi.org/10.1016/j.cpc.2020.107168) (2020) [[arXiv:1907.12502](https://arxiv.org/abs/1907.12502)]
 - *Kinetic-energy choice in hybrid/Hamiltonian Monte Carlo*, S. Livingstone, M. F. Faulkner and G. O. Roberts, [Biometrika 106, 303](https://doi.org/10.1093/biomet/asz013) (2019) [[arXiv:1706.02649](https://arxiv.org/abs/1706.02649)]
 - *All-atom computations with irreversible Markov chains*, M. F. Faulkner, L. Qin, A. C. Maggs and W. Krauth, [J. Chem. Phys. 149, 064113](https://doi.org/10.1063/1.5036638) (2018) [[arXiv:1804.05795](https://arxiv.org/abs/1804.05795)]
