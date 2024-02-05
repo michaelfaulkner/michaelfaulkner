@@ -50,7 +50,7 @@ My [publications](https://github.com/michaelfaulkner#--academic-publications) ar
 - And [Google Scholar](https://scholar.google.com/citations?user=wDxigWUAAAAJ&hl=fr&oi=sra), [arXiv](https://arxiv.org/search/?searchtype=author&query=Faulkner%2C+M+F) and [ORCiD](https://orcid.org/0000-0002-9116-2878) detail my [publications](https://github.com/michaelfaulkner#--academic-publications) and grants.
 
 ## 📜  Academic publications
-- *General symmetry breaking at a topological phase transition*, M. F. Faulkner, [arXiv:2209.03699](https://arxiv.org/abs/2209.03699) (2022) (in press at *Phys. Rev. B*)
+- *Symmetry breaking at a topological phase transition*, M. F. Faulkner, [Phys. Rev. B 109, 085405](https://doi.org/10.1103/PhysRevB.109.085405) (2024) [[arXiv:2209.03699](https://arxiv.org/abs/2209.03699)]
 - *Sampling algorithms in statistical physics: a guide for statistics and machine learning*, M. F. Faulkner and S. Livingstone, [arXiv:2208.04751](https://arxiv.org/abs/2208.04751) (2022) (in press at *Stat. Sci.*)
 - *JeLLyFysh-Version1.0 — a Python application for all-atom event-chain Monte Carlo*, P. Höllmer, L. Qin, M. F. Faulkner, A. C. Maggs and W. Krauth, [Comput. Phys. Commun. 253, 107168](https://doi.org/10.1016/j.cpc.2020.107168) (2020) [[arXiv:1907.12502](https://arxiv.org/abs/1907.12502)]
 - *Kinetic-energy choice in hybrid/Hamiltonian Monte Carlo*, S. Livingstone, M. F. Faulkner and G. O. Roberts, [Biometrika 106, 303](https://doi.org/10.1093/biomet/asz013) (2019) [[arXiv:1706.02649](https://arxiv.org/abs/1706.02649)]
