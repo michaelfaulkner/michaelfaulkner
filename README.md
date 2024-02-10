@@ -44,6 +44,9 @@ My [publications](https://github.com/michaelfaulkner#--academic-publications) ar
 - Further projects on emergent electrostatics in 2DXY models.
 - Developing PDMPs to resolve correlated dynamics at phase transitions in Bayesian computation.
 
+## 🚀 Vacancies
+- I have [an open PhD position](https://warwick.ac.uk/fac/sci/hetsys/themes/projectopportunities/hp2024-10/) in my group.  The project will develop advanced simulation algorithms to characterise strongly correlated system dynamics in both condensed matter and agent-based epidemic modelling.  Informal enquiries to michael.faulkner [AT] warwick.ac.uk are welcome.
+
 ## 📫  Contact
 - Email me at michael DOT faulkner AT warwick DOT ac DOT uk
 - As outlined above, you can find more details on [my personal website](https://michaelfaulkner.github.io) and [Warwick webpage](https://warwick.ac.uk/fac/sci/eng/people/michael_faulkner/).
