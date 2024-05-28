@@ -40,9 +40,10 @@ My [publications](https://github.com/michaelfaulkner#--academic-publications) ar
 - A review paper on emergent electrostatics, topological nonergodicity and symmetry breaking in planar XY spin models.
 
 ## 🌱  Future plans and interests
+- PDMPs for correlated dynamics at continuous phase transitions in statistical physics and Bayesian computation.
+- PDMPs for worldline sampling in computational quantum field theory.
 - Application of [JeLLyFysh](https://github.com/jellyfysh/JeLLyFysh) to various problems involving atomistic water and long-chain charged polymers.
 - Further projects on emergent electrostatics in 2DXY models.
-- Developing PDMPs to resolve correlated dynamics at phase transitions in Bayesian computation.
 
 ## 🚀 Vacancies
 - I have [an open PhD position](https://warwick.ac.uk/fac/sci/hetsys/themes/projectopportunities/hp2024-10/) in my group.  The project will develop advanced simulation algorithms to characterise strongly correlated system dynamics in both condensed matter and agent-based epidemic modelling.  Informal enquiries to michael.faulkner [AT] warwick.ac.uk are welcome.
@@ -53,8 +54,8 @@ My [publications](https://github.com/michaelfaulkner#--academic-publications) ar
 - And [Google Scholar](https://scholar.google.com/citations?user=wDxigWUAAAAJ&hl=fr&oi=sra), [arXiv](https://arxiv.org/search/?searchtype=author&query=Faulkner%2C+M+F) and [ORCiD](https://orcid.org/0000-0002-9116-2878) detail my [publications](https://github.com/michaelfaulkner#--academic-publications) and grants.
 
 ## 📜  Academic publications
+- *Sampling algorithms in statistical physics: a guide for statistics and machine learning*, M. F. Faulkner and S. Livingstone, [Statist. Sci. 39, 137](https://doi.org/10.1214/23-STS893) (2024) [[arXiv:2208.04751](https://arxiv.org/abs/2208.04751)]
 - *Symmetry breaking at a topological phase transition*, M. F. Faulkner, [Phys. Rev. B 109, 085405](https://doi.org/10.1103/PhysRevB.109.085405) (2024) [[arXiv:2209.03699](https://arxiv.org/abs/2209.03699)]
-- *Sampling algorithms in statistical physics: a guide for statistics and machine learning*, M. F. Faulkner and S. Livingstone, [arXiv:2208.04751](https://arxiv.org/abs/2208.04751) (2022) (in press at *Stat. Sci.*)
 - *JeLLyFysh-Version1.0 — a Python application for all-atom event-chain Monte Carlo*, P. Höllmer, L. Qin, M. F. Faulkner, A. C. Maggs and W. Krauth, [Comput. Phys. Commun. 253, 107168](https://doi.org/10.1016/j.cpc.2020.107168) (2020) [[arXiv:1907.12502](https://arxiv.org/abs/1907.12502)]
 - *Kinetic-energy choice in hybrid/Hamiltonian Monte Carlo*, S. Livingstone, M. F. Faulkner and G. O. Roberts, [Biometrika 106, 303](https://doi.org/10.1093/biomet/asz013) (2019) [[arXiv:1706.02649](https://arxiv.org/abs/1706.02649)]
 - *All-atom computations with irreversible Markov chains*, M. F. Faulkner, L. Qin, A. C. Maggs and W. Krauth, [J. Chem. Phys. 149, 064113](https://doi.org/10.1063/1.5036638) (2018) [[arXiv:1804.05795](https://arxiv.org/abs/1804.05795)]
