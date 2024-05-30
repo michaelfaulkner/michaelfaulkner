@@ -38,10 +38,11 @@ My [publications](https://github.com/michaelfaulkner#--academic-publications) ar
 ## 🔭  Current research
 - Developing PDMPs to resolve correlated dynamics in the LSCO film.
 - A review paper on emergent electrostatics, topological nonergodicity and symmetry breaking in planar XY spin models.
+- A PDMP sampler for agent-based epidemic models.
 
 ## 🌱  Future plans and interests
 - PDMPs for correlated dynamics at continuous phase transitions in statistical physics and Bayesian computation.
-- PDMPs for worldline sampling in computational quantum field theory.
+- PDMP sampling for computational quantum field theory.
 - Application of [JeLLyFysh](https://github.com/jellyfysh/JeLLyFysh) to various problems involving atomistic water and long-chain charged polymers.
 - Further projects on emergent electrostatics in 2DXY models.
 
