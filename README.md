@@ -36,18 +36,17 @@ My [publications](https://github.com/michaelfaulkner#--academic-publications) ar
 - Designed [super-relativistic Monte Carlo](https://doi.org/10.1093/biomet/asz013) for high-stability simulation of probability models in Bayesian computation (with statisticians [Sam Livingstone](https://www.ucl.ac.uk/statistics/department-information/staff/dr-samuel-livingstone) and [Gareth Roberts](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/roberts/) — see section 5.2 of [the linked paper](https://doi.org/10.1093/biomet/asz013) for details).  By slowing down the Newtonian dynamics in high-gradient regions of probability space, this new simulation algorithm circumvents the numerical instabilities of Hamiltonian Monte Carlo when applied to light-tailed probability distributions.  It also achieves machine precision and is the basis of our Python application [super-aLby](https://github.com/michaelfaulkner/super-aLby).
 
 ## 🔭  Current research
-- Developing PDMPs to resolve correlated dynamics in the LSCO film.
+- PDMPs and correlated dynamics at continuous phase transitions in statistical physics and Bayesian computation.
 - A review paper on emergent electrostatics, topological nonergodicity and symmetry breaking in planar XY spin models.
-- A PDMP sampler for agent-based epidemic models.
+- PDMP sampling for agent-based epidemic models.
 
 ## 🌱  Future plans and interests
-- PDMPs for correlated dynamics at continuous phase transitions in statistical physics and Bayesian computation.
 - PDMP sampling for computational quantum field theory.
 - Application of [JeLLyFysh](https://github.com/jellyfysh/JeLLyFysh) to various problems involving atomistic water and long-chain charged polymers.
 - Further projects on emergent electrostatics in 2DXY models.
 
 ## 🚀 Vacancies
-- I have [an open PhD position](https://warwick.ac.uk/fac/sci/hetsys/themes/projectopportunities/hp2024-10/) in my group.  The project will develop advanced simulation algorithms to characterise strongly correlated system dynamics in both condensed matter and agent-based epidemic modelling.  Informal enquiries to michael.faulkner [AT] warwick.ac.uk are welcome.
+- I have [an open PhD position](https://warwick.ac.uk/fac/sci/hetsys/themes/projectopportunities/hp2024-10/) in my group.  The project will develop advanced simulation algorithms to characterise strongly correlated system dynamics in both condensed matter and agent-based epidemic modelling.  Informal enquiries to michael DOT faulkner AT warwick DOT ac DOT uk are welcome.
 
 ## 📫  Contact
 - Email me at michael DOT faulkner AT warwick DOT ac DOT uk
