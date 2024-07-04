@@ -36,17 +36,20 @@ My [publications](https://github.com/michaelfaulkner#--academic-publications) ar
 - Designed [super-relativistic Monte Carlo](https://doi.org/10.1093/biomet/asz013) for high-stability simulation of probability models in Bayesian computation (with statisticians [Sam Livingstone](https://www.ucl.ac.uk/statistics/department-information/staff/dr-samuel-livingstone) and [Gareth Roberts](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/roberts/) — see section 5.2 of [the linked paper](https://doi.org/10.1093/biomet/asz013) for details).  By slowing down the Newtonian dynamics in high-gradient regions of probability space, this new simulation algorithm circumvents the numerical instabilities of Hamiltonian Monte Carlo when applied to light-tailed probability distributions.  It also achieves machine precision and is the basis of our Python application [super-aLby](https://github.com/michaelfaulkner/super-aLby).
 
 ## 🔭  Current research
-- PDMPs and correlated dynamics at continuous phase transitions in statistical physics and Bayesian computation.
+- Correlated dynamics at the BKT transition.
+- PDMPs for critical phenomena in statistical physics.
 - A review paper on emergent electrostatics, topological nonergodicity and symmetry breaking in planar XY spin models.
-- PDMP sampling for agent-based epidemic models.
 
 ## 🌱  Future plans and interests
 - PDMP sampling for computational quantum field theory.
 - Application of [JeLLyFysh](https://github.com/jellyfysh/JeLLyFysh) to various problems involving atomistic water and long-chain charged polymers.
-- Further projects on emergent electrostatics in 2DXY models.
+- Optimal PDMP dynamics in statistical physics and Bayesian computation.
+- PDMP sampling for agent-based epidemic models.
 
-## 🚀 Vacancies
-- I have [an open PhD position](https://warwick.ac.uk/fac/sci/hetsys/themes/projectopportunities/hp2024-10/) in my group.  The project will develop advanced simulation algorithms to characterise strongly correlated system dynamics in both condensed matter and agent-based epidemic modelling.  Informal enquiries to michael DOT faulkner AT warwick DOT ac DOT uk are welcome.
+## 🌟🤝🌟  Research group
+- I am very pleased to announce that I have two excellent PhD students starting in October 2024...
+- Rachel Kane is coming to work with me and [James Edwards](https://www.plymouth.ac.uk/staff/james-edwards-2) on PDMP sampling in computational quantum field theory.
+- James Gulliford will be working with me and [Gareth Roberts](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/roberts/) on correlated dynamics at the BKT transition and optimal PDMP dynamics at the stat-phys/Bayes-comp interface.
 
 ## 📫  Contact
 - Email me at michael DOT faulkner AT warwick DOT ac DOT uk
