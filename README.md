@@ -44,12 +44,10 @@ My [publications](https://github.com/michaelfaulkner#--academic-publications) ar
 - PDMP sampling for computational quantum field theory.
 - Application of [JeLLyFysh](https://github.com/jellyfysh/JeLLyFysh) to various problems involving atomistic water and long-chain charged polymers.
 - Optimal PDMP dynamics in statistical physics and Bayesian computation.
-- PDMP sampling for agent-based epidemic models.
 
 ## 🌟🤝🌟  Research group
-- I am very pleased to announce that I have two excellent PhD students starting in October 2024...
-- Rachel Kane is coming to work with me and [James Edwards](https://www.plymouth.ac.uk/staff/james-edwards-2) on PDMP sampling in computational quantum field theory.
-- James Gulliford will be working with me and [Gareth Roberts](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/roberts/) on correlated dynamics at the BKT transition and optimal PDMP dynamics at the stat-phys/Bayes-comp interface.
+- Rachel Kane is working with me and [James Edwards](https://www.plymouth.ac.uk/staff/james-edwards-2) on PDMP sampling in computational quantum field theory.
+- James Gulliford is working with me and [Gareth Roberts](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/roberts/) on correlated dynamics at the BKT transition and optimal PDMP dynamics at the stat-phys/Bayes-comp interface.
 
 ## 📫  Contact
 - Email me at michael DOT faulkner AT warwick DOT ac DOT uk
