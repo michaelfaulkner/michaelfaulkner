@@ -26,7 +26,7 @@ My [publications](https://github.com/michaelfaulkner#--academic-publications) ar
 - Discovered [topological ergodicity breaking at the BKT transition](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.91.155412) in the 2D lattice-field Coulomb liquid (with [Steve Bramwell](https://www.ucl.ac.uk/physics-astronomy/people/professor-steven-bramwell) and [Peter Holdsworth](http://www.ens-lyon.fr/en/research/honors-and-awards/peter-holdsworth-physicist-laboratoire-de-physique)).  This was cited as a possible explanation for [correlated resistance fluctuations](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.134503) at the superconducting transition in the LSCO film and proved to induce the above general symmetry breaking.
 - Developed the grand-canonical analogue of the [Maggs lattice-field model of Coulomb liquids](https://doi.org/10.1103/PhysRevLett.88.196402) and showed its equivalence to [the Villain model](https://doi.org/10.1051/jphys:01975003606058100) of planar magnets (see Section II and Appendix B of [the paper on topological ergodicity breaking](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.91.155412)).  We then...
 - ...presented an [electric-field representation of the harmonic XY model](https://doi.org/10.1088/1361-648X/aa523f) — a more realistic model of planar magnets, superfluids and superconductors — which mapped the topological ergodicity breaking to the ergodic exclusion of global phase twists in the magnetic spins / condensate wavefunction.
-- [Collated and expanded on the above concepts](https://arxiv.org/abs/2412.12186).  This elucidated fully the intimate connection between the topological and symmetry-breaking properties of the BKT transition.
+- [Collated and expanded on the above concepts](https://doi.org/10.1088/1367-2630/add7fd).  This elucidated fully the intimate connection between the topological and symmetry-breaking properties of the BKT transition.
 
 ### Molecular simulation and event-chain Monte Carlo
 - Designed [an event-chain algorithm](https://doi.org/10.1063/1.5036638) for numerically stable and determinstic all-atom molecular Coulomb simulations in soft matter (with [Liang Qin](https://scholar.google.com/citations?user=rGW6nKUAAAAJ), [Tony Maggs](https://turner.pct.espci.fr/~amaggs/index2.html) and [Werner Krauth](http://www.lps.ens.fr/~krauth/index.php/Main_Page)).  This is the only molecular simulation algorithm that mixes (equilibrates from a random initial configuration) Coulomb-based models in *O(N log(N))* computations, where *N* is the number of particles.  It also achieves machine precision and is the basis of...
@@ -46,7 +46,7 @@ My [publications](https://github.com/michaelfaulkner#--academic-publications) ar
 - Optimal PDMP dynamics in statistical physics and Bayesian computation.
 
 ## 🌟🌟  Research group
-- Rachel Kane is working with me and [James Edwards](https://www.plymouth.ac.uk/staff/james-edwards-2) on PDMP sampling in computational quantum field theory.
+- Rachel Kane is working with me and [James Edwards](https://www.plymouth.ac.uk/staff/james-edwards-2) on PDMPs for accelerated worldline sampling in computational quantum mechanics.
 - James Gulliford is working with me and [Gareth Roberts](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/roberts/) on correlated dynamics at the BKT transition and optimal PDMP dynamics at the stat-phys/Bayes-comp interface.
 
 ## 🤝💼  Vacancies
@@ -58,7 +58,7 @@ My [publications](https://github.com/michaelfaulkner#--academic-publications) ar
 - And [Google Scholar](https://scholar.google.com/citations?user=wDxigWUAAAAJ&hl=fr&oi=sra), [arXiv](https://arxiv.org/search/?searchtype=author&query=Faulkner%2C+M+F) and [ORCiD](https://orcid.org/0000-0002-9116-2878) detail my [publications](https://github.com/michaelfaulkner#--academic-publications) and grants.
 
 ## 📜  Academic publications
-- *Emergent electrostatics in planar XY spin models: the bridge connecting topological order/nonergodicity with broken U(1) symmetry*, M. F. Faulkner, [arXiv:2412.12186](https://arxiv.org/abs/2412.12186) (2024)
+- *Emergent electrostatics in planar XY spin models: the bridge connecting topological order with broken U(1) symmetry*, M. F. Faulkner, [New J. Phys. 27, 061201](https://doi.org/10.1088/1367-2630/add7fd) (2025) [[arXiv:2412.12186](https://arxiv.org/abs/2412.12186)]
 - *Sampling algorithms in statistical physics: a guide for statistics and machine learning*, M. F. Faulkner and S. Livingstone, [Statist. Sci. 39, 137](https://doi.org/10.1214/23-STS893) (2024) [[arXiv:2208.04751](https://arxiv.org/abs/2208.04751)]
 - *Symmetry breaking at a topological phase transition*, M. F. Faulkner, [Phys. Rev. B 109, 085405](https://doi.org/10.1103/PhysRevB.109.085405) (2024) [[arXiv:2209.03699](https://arxiv.org/abs/2209.03699)]
 - *JeLLyFysh-Version1.0 — a Python application for all-atom event-chain Monte Carlo*, P. Höllmer, L. Qin, M. F. Faulkner, A. C. Maggs and W. Krauth, [Comput. Phys. Commun. 253, 107168](https://doi.org/10.1016/j.cpc.2020.107168) (2020) [[arXiv:1907.12502](https://arxiv.org/abs/1907.12502)]
