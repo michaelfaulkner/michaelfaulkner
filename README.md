@@ -1,9 +1,9 @@
 ## 👋 About me
 
 I'm an [Assistant Professor](https://warwick.ac.uk/fac/sci/eng/people/michael_faulkner/) in the [Warwick Centre for Predictive Modelling](https://warwick.ac.uk/fac/sci/wcpm/).  Primarily I'm a computational statistical physicist, specialising in:
+- Monte Carlo sampling algorithms in statistical physics and Bayesian computational statistics, with a particular interest in piecewise deterministic Markov processes (PDMPs) such as event-chain Monte Carlo.
 - Emergent electrostatics, slow mixing and correlated dynamics in systems that experience the Berezinskii-Kosterlitz-Thouless phase transition, eg, certain planar magnets, superfluids and superconductors.
 - Molecular simulation in soft-matter physics, with a focus on electrostatics, high precision and numerical stability.
-- Monte Carlo sampling algorithms in statistical physics and Bayesian computational statistics, with a particular interest in piecewise deterministic Markov processes (PDMPs) such as event-chain Monte Carlo.
 
 I started my academic career as a PhD student at [University College London](https://www.ucl.ac.uk/condensed-matter-material-physics/) and [Ecole normale supérieure de Lyon](http://www.ens-lyon.fr/PHYSIQUE/teams/physique-theorique/research-topics/statistical-physics), under the co-supervision of [Steve Bramwell](https://www.ucl.ac.uk/physics-astronomy/people/professor-steven-bramwell) and [Peter Holdsworth](http://www.ens-lyon.fr/en/research/honors-and-awards/peter-holdsworth-physicist-laboratoire-de-physique).  After a short postdoc and teaching position at [Bristol Mathematics](https://www.bristol.ac.uk/maths/), I then moved to [Bristol Physics](https://www.bristol.ac.uk/physics/research/theory/) in August 2017 after winning an EPSRC postdoctoral research fellowship.  I was also a visiting scientist at [Ecole normale supérieure](http://www.phys.ens.fr/?lang=fr) from September 2017 to October 2018, and won a Max Planck Institute research fellowship to visit the [Max Planck Institute for the Physics of Complex Systems](https://www.pks.mpg.de) in Dresden in April 2018.
 
