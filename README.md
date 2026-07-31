@@ -1,6 +1,6 @@
 ## 👋 About me
 
-I'm an [Assistant Professor](https://warwick.ac.uk/fac/sci/eng/people/michael_faulkner/) in the [Warwick Centre for Predictive Modelling](https://warwick.ac.uk/fac/sci/wcpm/).  Primarily I'm a computational statistical physicist, specialising in:
+I'm an [Associate Professor](https://warwick.ac.uk/fac/sci/eng/people/michael_faulkner/) in the [Warwick Centre for Predictive Modelling](https://warwick.ac.uk/fac/sci/wcpm/).  Primarily I'm a computational statistical physicist, specialising in:
 - Monte Carlo sampling algorithms in statistical physics and Bayesian computational statistics, with a particular interest in piecewise deterministic Markov processes (PDMPs) such as event-chain Monte Carlo.
 - Emergent electrostatics, slow mixing and correlated dynamics in systems that experience the Berezinskii-Kosterlitz-Thouless phase transition, e.g. certain planar magnets, superfluids and superconductors.
 - Molecular simulation in soft-matter physics, with a focus on electrostatics, high precision and numerical stability.
