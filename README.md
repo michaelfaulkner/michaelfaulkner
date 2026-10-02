@@ -58,7 +58,7 @@ My [publications](https://github.com/michaelfaulkner#--academic-publications) ar
 - And [Google Scholar](https://scholar.google.com/citations?user=wDxigWUAAAAJ&hl=fr&oi=sra), [arXiv](https://arxiv.org/search/?searchtype=author&query=Faulkner%2C+M+F) and [ORCiD](https://orcid.org/0000-0002-9116-2878) detail my [publications](https://github.com/michaelfaulkner#--academic-publications) and grants.
 
 ## 📜  Academic publications
-- *Optimal sampling strategies in event-chain Monte Carlo*, J. Gulliford, G. O. Roberts and M. F. Faulkner, [[arXiv:2610.01659](https://arxiv.org/abs/2610.01659) (2026)
+- *Optimal sampling strategies in event-chain Monte Carlo*, J. Gulliford, G. O. Roberts and M. F. Faulkner, [[arXiv:2610.01659](https://arxiv.org/abs/2610.01659)] (2026)
 - *Emergent electrostatics in planar XY spin models: the bridge connecting topological order with broken U(1) symmetry*, M. F. Faulkner, [New J. Phys. 27, 061201](https://doi.org/10.1088/1367-2630/add7fd) (2025) [[arXiv:2412.12186](https://arxiv.org/abs/2412.12186)]
 - *Sampling algorithms in statistical physics: a guide for statistics and machine learning*, M. F. Faulkner and S. Livingstone, [Statist. Sci. 39, 137](https://doi.org/10.1214/23-STS893) (2024) [[arXiv:2208.04751](https://arxiv.org/abs/2208.04751)]
 - *Symmetry breaking at a topological phase transition*, M. F. Faulkner, [Phys. Rev. B 109, 085405](https://doi.org/10.1103/PhysRevB.109.085405) (2024) [[arXiv:2209.03699](https://arxiv.org/abs/2209.03699)]
