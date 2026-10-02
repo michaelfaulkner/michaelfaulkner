@@ -46,8 +46,14 @@ My [publications](https://github.com/michaelfaulkner#--academic-publications) ar
 - Optimal PDMP dynamics in statistical physics and Bayesian computation.
 
 ## 🌟🌟  Research group
-- [Rachel Kane](https://github.com/rachel-kane) is working with me and [James Edwards](https://www.plymouth.ac.uk/staff/james-edwards-2) on PDMPs for accelerated worldline sampling in computational quantum mechanics.
-- James Gulliford is working with me and [Gareth Roberts](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/roberts/) on correlated dynamics at the BKT transition and optimal PDMP dynamics at the stat-phys/Bayes-comp interface.
+### Postdocs
+- [Hubert Naguszewski](https://github.com/HubertJN) is working with me on advanced approaches to tempering and optimal ECMC dynamics in molecular systems.
+
+### PhD students
+- [James Gulliford](https://github.com/jamesgulliford57) is working with me and [Gareth Roberts](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/roberts/) on optimal ECMC dynamics at the stat-phys/Bayes-comp interface.
+- [Rachel Kane](https://github.com/rachel-kane) is working with me and [James Edwards](https://www.plymouth.ac.uk/staff/james-edwards-2) on ECMC for accelerated worldline sampling in computational quantum field theory.
+- [Lily Lenton](https://github.com/lilylenton20) is working with me, [Gabriele Sosso](https://warwick.ac.uk/fac/sci/chemistry/staff/gabrielesosso/) and [Gareth Roberts](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/roberts/) on advanced Monte Carlo algorithms for glasses and complex materials.
+- [Siam Sama] is working with me on advanced Monte Carlo algorithms at phase transitions.
 
 ## 🤝💼  Vacancies
 - I do not currently have any new positions open.
